@@ -23,6 +23,6 @@ The Object Detection Web App successfully achieved the objectives of implementin
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
-1.The YOLO algorithm: YOLO: Real-Time Object Detection
-2.OpenCV: Open Source Computer Vision Library
-3.Streamlit: Streamlit - The Fastest Way to Create Data Apps
+1. The YOLO algorithm: YOLO: Real-Time Object Detection.
+2. OpenCV: Open Source Computer Vision Library.
+3. Streamlit: Streamlit - The Fastest Way to Create Data Apps.
