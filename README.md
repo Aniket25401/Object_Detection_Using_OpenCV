@@ -19,7 +19,10 @@ NumPy: NumPy is used for efficient numerical operations, such as handling image 
 
 The Object Detection Web App successfully achieved the objectives of implementing object detection using the YOLO algorithm and providing a user-friendly web interface. The web application, built with Streamlit, allowed users to upload images or videos for object detection and also provided real-time object detection using the webcam. The detected objects were visually highlighted with bounding boxes and labels using Streamlit's interactive visualization capabilities.
 
-##Acknowledgments
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Acknowledgments
 1.The YOLO algorithm: YOLO: Real-Time Object Detection
 2.OpenCV: Open Source Computer Vision Library
 3.Streamlit: Streamlit - The Fastest Way to Create Data Apps
